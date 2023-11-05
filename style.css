@@ -1,0 +1,64 @@
+/*
+    selector{
+    propiedad: valor;
+    propiedad: valor;
+    }
+*/
+
+body {
+    /*Cambiar de fondo*/
+    background-color:black;
+    /*Color de texto*/
+    color:white;
+    /*Cambiar fuente del texto*/
+    font-family: 'Aclonica', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Edu TAS Beginner';
+    font-size: 30px;
+    display: flex;
+    justify-content: justify;
+    margin-block-start: auto;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+}
+h1{
+    color:aliceblue;
+    background-color: rgb(168, 168, 168);
+    font-family: 'Bad Script', cursive;
+    font-size: 60px;
+    text-align: center;
+}
+a{
+    font-family: 'Mukta', sans-serif;
+    outline:none;
+    font-size: x-large;
+    align-items: center;   
+    justify-content: center; 
+}
+a:visited{
+    color:antiquewhite
+}
+
+#historia{
+    font-family: 'Edu TAS Beginner', cursive;
+    text-align:center;
+    font-size:50px;
+    color:white
+}
+
+#discos{
+    font-family: 'Edu TAS Beginner', cursive;
+    text-align:center;
+    font-size:50px;
+    color:white
+
+}
+h2{
+    text-align: center;
+}
+
+
+
